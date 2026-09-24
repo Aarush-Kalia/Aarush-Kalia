@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Aarush-Kalia
-- 👀 I’m interested in applied math, CS, and astrophysics
-- 🌱 I’m currently learning physics and math
-- 📫 How to reach me: aarush.kalia07@gmail.com
+- 👀 I’m interested in Statistics, Quantitative Finance, and Economics
+- 📫 How to reach me: Aarush_kalia@brown.edu
 
 <!---
 Aarush-Kalia/Aarush-Kalia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
